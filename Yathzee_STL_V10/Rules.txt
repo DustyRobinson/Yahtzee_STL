@@ -1,0 +1,53 @@
+										Yahtzee Tutorial
+
+What you need!!!
+
+Two or more players; five dice, score pad
+Unless playing solo game
+
+Objective:
+
+The object of the game is to score the most points by rolling different dice combinations with five dice.
+
+Game Play:
+
+A turn consists of up to three dice rolls. After the first roll, the player will decide which dice to keep, if any, and will roll the dice not kept. 
+After the second roll, the player will again determine the dice to keep and the dice to roll again. After the third roll, the player must choose a box to score on the scorecard.
+
+Scoring:
+
+There are 13 options to score, meaning each player will get 13 turns. The goal for the top six options is to roll as many specific numbers as possible. 
+
+For example, when going for 6s, a player will keep any 6 rolled through three rolls of the dice. 
+
+A player scores the total value of the specific numbers rolled for the top options. For example, rolling three 6s gets 18 points. 
+
+The goal for the bottom seven options is to roll a specific combination of dice. 
+
+The 3 of a kind is scored by adding up all five dice when at least three are the same number. 
+
+The 4 of a kind is scored by adding up all five dice when at least four are the same number. 
+
+A full house is the combination of a pair and a 3 of a kind, and 25 points are scored. 
+
+A small straight is the combination of four numbers in a row and scores 30 points. 
+
+A large straight is the combination of five numbers in a row and scores 40 points. 
+
+A Yahtzee is all five dice with the same number and scores 50 points. 
+
+The chance is the total of all five dice, no matter the combination.
+
+How to win:
+
+The player with the highest total point value at the end of the game wins.
+
+Rules:
+
+During a turn, a player can roll up to three times but can stop after the first or second roll if a desired combination has been rolled.
+
+If a player’s top six boxes add up to 63 or more points, a bonus of 35 points are scored.
+
+If a player does not get a desired combination after three rolls, he/she may need to x-out a box and will get no points for that combination.
+
+A Yahtzee bonus is awarded if a player gets a second Yahtzee in the same game. The Bonus Yahtzee box is c
